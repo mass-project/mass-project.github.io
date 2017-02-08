@@ -1,0 +1,32 @@
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#004291">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <section class="page-header">
+      <img src="img/mass.svg">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+        <h3>Contact information</h3>
+          <p>
+              Universität Bonn, Institut für Informatik IV<br>
+              Fabian Rump<br>
+              Friedrich-Ebert-Allee 144<br>
+              53113 Bonn<br>
+              <a href="mailto:rumpf@cs.uni-bonn.de">rumpf@cs.uni-bonn.de</a>
+          </p>
+      </footer>
+    </section>
+  </body>
+</html>
