@@ -22,7 +22,7 @@ Interested students are advised to [join our mailing list](https://lists.iai.uni
 
 Identifying similar malware samples and finding groups/clusters of similar files is a very prominent task in malware analysis. While researchers in the past have proposed several methods to cluster malware samples based on specifically selected features, our initial work has shown that using MASS we can follow a more generic and flexible approach to this problem. In the next step we want to find out whether it is possible to gain additional information by comparing the sample clusters automatically generated with our algorithm and sets of malware samples which have been hand-picked by malware researchers.
 
-*This is a very interesting project for students who are intested in machine learning and big data topics. Previous knowledge about topics like similarity analysis, clustering algorithms etc. is strongly advised.*
+*This is a very interesting project for students who are proficient in machine learning and big data topics. Previous knowledge about topics like similarity analysis, clustering algorithms etc. is strongly advised.*
 
 #### Interactive shell
 
