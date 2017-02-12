@@ -12,7 +12,7 @@ The goal of our project is to create a flexible and reusable platform for malwar
 Google Summer of Code
 ---------------------
 
-University of Bonn and Fraunhofer FKIE are currently applying for the **Google Summer of Code** (GSoC) in order to allow motivated students from other research institutions to get in touch with this exciting project. As we believe that the analysis of malware can be improved by the cooperation between different institutions, development of our tools is focused on improving the free information exchange between research organisations. The Google Summer of Code (GSoC) is perfectly in line with our current work as it allows us to bring students in touch with malware research while developing a software platform for collaborative work on malware analysis.
+University of Bonn and Fraunhofer FKIE are currently applying for the **Google Summer of Code** (GSoC) in order to allow motivated students to get in touch with this exciting project. As we believe that the analysis of malware can be improved by the cooperation between different institutions, development of our tools is focused on improving the free information exchange between research organisations. GSoC is perfectly in line with our current work as it allows us to bring students in touch with malware research while developing a software platform for collaborative work on malware analysis.
 
 Interested students are advised to [join our mailing list](https://lists.iai.uni-bonn.de/mailman/listinfo.cgi/mass-project) and should not hesitate to ask questions about MASS, potential ideas for the GSoC, etc.!
 
@@ -20,7 +20,7 @@ Interested students are advised to [join our mailing list](https://lists.iai.uni
 
 #### Advanced sample clustering
 
-Identifying similar malware samples and finding groups/clusters of similar files is a very prominent task in malware analysis. While researchers in the past have proposed several methods to cluster malware samples based on specifically selected features, our initial work has shown that using MASS we can follow a more generic and flexible approach to this problem. In the next step we want to find out whether it is possible to gain additional information by comparing the sample clusters automatically generated with our algorithm and sets of malware samples which have been hand-picked by malware researchers.
+Identifying similar malware samples and finding groups/clusters of similar files is a very prominent task in malware analysis. While researchers in the past have proposed several methods to cluster malware samples based on specifically selected features, our initial work has shown that using MASS we can follow a generic and flexible approach to this problem - combining the excellent metrics provided by other researchers. In the next step we want to find out whether it is possible to gain additional information by comparing the sample clusters automatically generated with our algorithm and sets of malware samples which have been hand-picked by malware researchers.
 
 *This is a very interesting project for students who are proficient in machine learning and big data topics. Previous knowledge about topics like similarity analysis, clustering algorithms etc. is strongly advised.*
 
@@ -57,7 +57,7 @@ When it comes to examining large data sets, proper visualization is a very impor
 
 Developer team
 --------------
-The Malware Analysis and Storage System (MASS) is a joint research project by the [Communication and Network Systems Group @ University of Bonn](https://net.cs.uni-bonn.de/) and the [Cyber Analysis and Defense Group & Fraunhofer FKIE](https://www.fkie.fraunhofer.de/de/ueber-fkie/forschungsabteilungen/ca-d---cyber-analysis-and-defense.html).
+The Malware Analysis and Storage System (MASS) is a joint research project by the [Communication and Network Systems Group @ University of Bonn](https://net.cs.uni-bonn.de/) and the [Cyber Analysis and Defense Group @ Fraunhofer FKIE](https://www.fkie.fraunhofer.de/de/ueber-fkie/forschungsabteilungen/ca-d---cyber-analysis-and-defense.html).
 
 <p style="text-align:center"><img src="img/uni_bonn.svg" style="width: 60%"></p>
 
