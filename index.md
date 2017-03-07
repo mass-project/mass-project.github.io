@@ -9,14 +9,14 @@ The Malware Analysis and Storage System (MASS) provides a distributed and scalab
 
 The goal of our project is to create a flexible and reusable platform for malware analysis which empowers collaboration between malware researchers. MASS is free and open source software licensed under the terms of the MIT license. Other researchers are invited to contribute to the MASS development!
 
-Google Summer of Code
+Join MASS
 ---------------------
 
-University of Bonn and Fraunhofer FKIE are currently applying for the **Google Summer of Code** (GSoC) in order to allow motivated students to get in touch with this exciting project. As we believe that the analysis of malware can be improved by the cooperation between different institutions, development of our tools is focused on improving the free information exchange between research organisations. GSoC is perfectly in line with our current work as it allows us to bring students in touch with malware research while developing a software platform for collaborative work on malware analysis.
+University of Bonn and Fraunhofer FKIE are currently looking for motivated students to get in touch with this exciting project. As we believe that the analysis of malware can be improved by the cooperation between different institutions, development of our tools is focused on improving the free information exchange between research organisations. Our current work allows us to bring students in touch with malware research while developing a software platform for collaborative work on malware analysis.
 
-Interested students are advised to [join our mailing list](https://lists.iai.uni-bonn.de/mailman/listinfo.cgi/mass-project) and should not hesitate to ask questions about MASS, potential ideas for the GSoC, etc.!
+Interested students are advised to [join our mailing list](https://lists.iai.uni-bonn.de/mailman/listinfo.cgi/mass-project) and should not hesitate to ask questions about MASS, potential features etc.!
 
-### Project ideas for the GSoC
+### Project ideas
 
 #### Advanced sample clustering
 
