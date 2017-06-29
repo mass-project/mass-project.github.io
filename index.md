@@ -68,8 +68,9 @@ The Malware Analysis and Storage System (MASS) is a joint research project by th
 Contact us
 ----------
 
-* If you are interested in using or contributing to MASS, please feel free to [join our mailing list](https://lists.iai.uni-bonn.de/mailman/listinfo.cgi/mass-project)!
-* Developers will also be invited to our Gitter chatroom
+* For questions, support, development ideas, ..., please use our [Gitter chat room](https://gitter.im/mass-project/chat) (see below)
+
+<iframe width="560" height="400" src="https://gitter.im/mass-project/chat/~embed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Imprint
 -------
