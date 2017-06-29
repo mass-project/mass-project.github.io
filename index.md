@@ -70,7 +70,7 @@ Contact us
 
 * For questions, support, development ideas, ..., please use our [Gitter chat room](https://gitter.im/mass-project/chat) (see below)
 
-<iframe width="560" height="400" src="https://gitter.im/mass-project/chat/~embed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="400" src="https://gitter.im/mass-project/chat/~embed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Imprint
 -------
