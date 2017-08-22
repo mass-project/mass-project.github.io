@@ -55,6 +55,19 @@ When it comes to examining large data sets, proper visualization is a very impor
 
 *Students are invited to brainstorm and bring in their own ideas for this topic. Previous knowledge of data visualization is recommended but not a necessary precondition.*
 
+Screenshots
+-----------
+<p style="text-align:center">
+    <a href="img/screenshots/mass_01_landing-page.png"><img src="img/screenshots/thumbnails/mass_01_landing-page.png" /></a>
+    <a href="img/screenshots/mass_02_sample-list.png"><img src="img/screenshots/thumbnails/mass_02_sample-list.png" /></a>
+    <a href="img/screenshots/mass_03_sample-search.png"><img src="img/screenshots/thumbnails/mass_03_sample-search.png" /></a>
+    <a href="img/screenshots/mass_04_sample-activity.png"><img src="img/screenshots/thumbnails/mass_04_sample-activity.png" /></a>
+    <a href="img/screenshots/mass_05_sample-metadata.png"><img src="img/screenshots/thumbnails/mass_05_sample-metadata.png" /></a>
+    <a href="img/screenshots/mass_06_sample-report.png"><img src="img/screenshots/thumbnails/mass_06_sample-report.png" /></a>
+    <a href="img/screenshots/mass_07_analysis-systems.png"><img src="img/screenshots/thumbnails/mass_07_analysis-systems.png" /></a>
+    <a href="img/screenshots/mass_08_swagger-docs.png"><img src="img/screenshots/thumbnails/mass_08_swagger-docs.png" /></a>
+</p>
+
 Developer team
 --------------
 The Malware Analysis and Storage System (MASS) is a joint research project by the [Communication and Network Systems Group @ University of Bonn](https://net.cs.uni-bonn.de/) and the [Cyber Analysis and Defense Group @ Fraunhofer FKIE](https://www.fkie.fraunhofer.de/de/ueber-fkie/forschungsabteilungen/ca-d---cyber-analysis-and-defense.html).
